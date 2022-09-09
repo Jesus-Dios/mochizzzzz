@@ -1,0 +1,7 @@
+﻿  mochi.cpp
+C:\Users\h-c-m\OneDrive\Escritorio\mochi\mochi.cpp(22,13): warning C4129: 'I': secuencia de escape de carácter no reconocida
+C:\Users\h-c-m\OneDrive\Escritorio\mochi\mochi.cpp(79,21): warning C4129: 'L': secuencia de escape de carácter no reconocida
+C:\Users\h-c-m\OneDrive\Escritorio\mochi\mochi.cpp(30,24): warning C4101: 'nombres': variable local sin referencia
+C:\Users\h-c-m\OneDrive\Escritorio\mochi\mochi.cpp(29,25): warning C4101: 'num': variable local sin referencia
+C:\Users\h-c-m\OneDrive\Escritorio\mochi\mochi.cpp(29,19): warning C4101: 'opc3': variable local sin referencia
+  mochi.vcxproj -> C:\Users\h-c-m\OneDrive\Escritorio\mochi\x64\Debug\mochi.exe
